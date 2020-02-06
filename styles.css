@@ -19,7 +19,12 @@ li a:hover{
     border: 2px;
     border-radius: 15px;
 }
-.vio{
-    float: left;
-    display: flex;
+.vio p{
+    font-size: 20px;
+}
+.code{
+    font-size: 20px;
+}
+.code p{
+    font-weight: bold;
 }
