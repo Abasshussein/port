@@ -14,10 +14,21 @@ li a{
 }
 li a:hover{
     background-color: #111;
+
 }
-.dado img{
+.dado{
     border: 2px;
-    border-radius: 15px;
+    /* border-radius: 15px; */
+    /* margin-left: 40%; */
+    background-image: url('https://bit.ly/377nIRw');
+    background-size: cover;
+    height: 30vh;
+}
+.dado h4{
+    /* color: white; */
+    text-align: center;
+    font-size: 30px;
+
 }
 .vio p{
     font-size: 20px;
@@ -28,12 +39,48 @@ li a:hover{
 .code p{
     font-weight: bold;
 }
+.code h2{
+    font-size: 30px;
+    text-align: center;
+}
 .vio h2{
     font-size: 30px;
+    text-align: center;
 }
 .vio h1{
     font-size: 35px;
+    text-align: center;
 }
 .identity ol{
     text-decoration: none;
+    
+}
+.identity h2{
+    font-size: 30px;
+}
+.identity ol{
+    font-size: 20px;
+}
+.Hobbies h2{
+    font-size: 30px;
+}
+.Hobbies ol{
+    font-size: 20px;
+}
+.skills h2{
+    font-size: 30px;
+    /* text-align: center; */
+}
+.skills ol{
+    font-size: 20px;
+}
+.projects h2{
+    font-size: 30px;
+}
+/* .projects img{
+    border-radius: 25px;
+    border: 2px;
+} */
+.contacts{
+    
 }
