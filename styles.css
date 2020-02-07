@@ -28,3 +28,12 @@ li a:hover{
 .code p{
     font-weight: bold;
 }
+.vio h2{
+    font-size: 30px;
+}
+.vio h1{
+    font-size: 35px;
+}
+.identity ol{
+    text-decoration: none;
+}
