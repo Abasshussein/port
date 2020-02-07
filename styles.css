@@ -81,6 +81,28 @@ li a:hover{
     border-radius: 25px;
     border: 2px;
 } */
-.contacts{
-    
+.contacts h2{
+    font-size: 30px;
+}
+.contacts p{
+    font-size: 20px;
+}
+.projects p{
+    font-size: 20px;
+}
+.drizzlah p{
+    font-size: 20px;
+}
+.projects img{
+    border-radius: 25px;
+    border: 2px;
+}
+.drizzlah img{
+    border-radius: 25px;
+    border: 2px;
+}
+footer{
+    background-color: grey;
+    text-align: left;
+    padding-left: 0;
 }
