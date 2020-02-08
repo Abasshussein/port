@@ -38,6 +38,7 @@ li a:hover{
 }
 .code p{
     font-weight: bold;
+    text-align: center;
 }
 .code h2{
     font-size: 30px;
@@ -57,22 +58,28 @@ li a:hover{
 }
 .identity h2{
     font-size: 30px;
+    text-align: center;
 }
 .identity ol{
     font-size: 20px;
+    text-align: center;
 }
 .Hobbies h2{
     font-size: 30px;
+    text-align: center;
 }
 .Hobbies ol{
     font-size: 20px;
+    text-align: center;
 }
 .skills h2{
     font-size: 30px;
+    text-align: center;
     /* text-align: center; */
 }
-.skills ol{
+.skills ol li{
     font-size: 20px;
+    text-align: center;
 }
 .projects h2{
     font-size: 30px;
@@ -108,4 +115,10 @@ footer{
 }
 body{
     background-color: blueviolet;
+}
+.dado h4:hover{
+    background-color: white;
+}
+.identity ol li{
+    text-align: center;
 }
