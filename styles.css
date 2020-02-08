@@ -119,6 +119,6 @@ body{
 .dado h4:hover{
     background-color: white;
 }
-.identity ol li{
+ol li{
     text-align: center;
 }
