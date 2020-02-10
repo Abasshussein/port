@@ -1,22 +1,22 @@
 # Project name
--My Personal Portfolio.
+- My Personal Portfolio.
 #### Project Author
--Abass Hussein
+- Abass Hussein
 #### Project Description
--This is my portfolio which entails my career profession and my also contain my personal details including hobbies, interest and skills.
+- This is my portfolio which entails my career profession and my also contain my personal details including hobbies, interest and skills.
 ## Known Bugs
-My images are not displaying but im working on it.
+- My images are not displaying but im working on it.
 ## Technoloies used
--HTML
--CSS
+- HTML
+- CSS
 ## Technical requirements
-*you need to have GITHUB account
-*Internet access
+* You need to have GITHUB account
+* Internet access
 ## Live link
--click to get my Github link
--https://abasshussein.github.io/port/
+- Click to get my Github link
+- https://abasshussein.github.io/port/
 ## Contact details
--Email:abasshussein03@gmail.com
--Tell:0736623078/0798017031
--Github:Abasshussein
+- Email:abasshussein03@gmail.com
+- Tell:0736623078/0798017031
+- Github:Abasshussein
 
