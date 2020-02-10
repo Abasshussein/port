@@ -137,12 +137,11 @@ body{
     text-align: center;
 }
 .drizzlah{
-    text-align: right;
+    text-align: left;
     padding-right: 100px;
 }
-.projects{
-    flex: 10px;
-    float: inline-end;
+.projects img{
+    text-align: left;
 }
 .vio h1{
     font-size: 50px;
@@ -153,3 +152,5 @@ body{
 .code h2{
     font-size: 40px;
 }
+
+
