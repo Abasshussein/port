@@ -1,5 +1,5 @@
 # Project name
--My personal portfolio
+-My Personal Portfolio.
 #### Project Author
 -Abass Hussein
 #### Project Description
