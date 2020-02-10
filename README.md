@@ -17,7 +17,4 @@
 -Email:abasshussein03@gmail.com
 -Tell:0736623078/0798017031
 -Github:Abasshussein
-## Copyright and Licence information
-MIT License
-Copyright(2020) Abasshussein
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+
